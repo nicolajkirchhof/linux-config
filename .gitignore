@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Do not ignore 
+!.gitignore
+!.tmux.conf
+!LICENSE
+
